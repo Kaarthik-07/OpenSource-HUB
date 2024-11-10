@@ -1,0 +1,9 @@
+[submodule "cr-server"]
+	path = cr-server
+	url = https://github.com/MohammedNayeemE/cr-server.git
+[submodule "oshub_flask_backend"]
+	path = oshub_flask_backend
+	url = https://github.com/pranavs6/oshub_flask_backend.git
+[submodule "Opensource-backend"]
+	path = Opensource-backend
+	url = https://github.com/Sai-Dithvika/Opensource-backend.git
