@@ -1,3 +1,6 @@
+
+
+
 <div align ="center">
         <img src ="https://github.com/user-attachments/assets/a3913778-2744-4b1d-8d49-86dcf3f48072" width = "150"  alt ="lazywin"/>
        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -111,3 +114,13 @@ The Unique Selling Point (USP) is the distinctive feature or benefit of a produc
 - **Pranav Sathya A R**: [GitHub Profile](https://github.com/pranavs6/)
 - **Kaarthik Raja J** : [Github Profile](https://github.com/Kaarthik-07/)
 - **Mohammed Nayeem E**: [Github Profile](https://github.com/MohammedNayeemE/)
+
+# Contribution
+
+We welcome contributions and feedback from the community to enhance our document validation solution. Your insights are invaluable in shaping the future of this project. 
+
+- **Contributions**: We encourage developers to contribute code, documentation, and ideas to improve functionality and usability.
+- **Feedback**: Please share your thoughts and experiences to help us identify areas for improvement and feature enhancements.
+- **Issue Reporting**: If you encounter any issues, we invite you to raise them through our issue tracker, ensuring that we can address them promptly.
+
+Together, we can create a more robust and effective solution for document validation within the Azure ecosystem.
