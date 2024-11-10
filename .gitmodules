@@ -7,3 +7,6 @@
 [submodule "Opensource-backend"]
 	path = Opensource-backend
 	url = https://github.com/Sai-Dithvika/Opensource-backend.git
+[submodule "Opensource-Frontend"]
+	path = Opensource-Frontend
+	url = https://github.com/Kaarthik-07/Opensource-Frontend.git
