@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/LazyWin-%23121011?style=for-the-badge&logoColor=%23ffffff&color=%23000000">
   <img src="https://img.shields.io/badge/TechXcelerate-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black">
   <img src="https://img.shields.io/badge/Codebeta-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white">
-  <h1> Open Hub is a platform to contribute for real world projects </h1>
+  <h1> A platform to delve into the beautiful world of open source </h1>
 
 </div>
 Our Open Source Hub is an inclusive platform designed to support developers, enthusiasts, and contributors in sharing, discovering, and collaborating on open-source projects. Focused on fostering innovation and learning, the hub enables users to showcase their projects, connect with like-minded individuals, and engage in meaningful discussions to address real-world challenges.
